@@ -1,0 +1,28 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Practicando el entorno de desarrollo NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickd3v/Node-Practice.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "erickdev"
+  ],
+  "author": "Erick Yusuke Moya Flores - erickdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickd3v/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/erickd3v/Node-Practice#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
